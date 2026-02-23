@@ -1,21 +1,65 @@
 ## Hi there 👋, I'm MO
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-land&show_icons=true&locale=en&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mo-land&hide=contribs,prs" />
-</div>
 
-<!--
-**mo-land/mo-land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐾 About Me
 
-Here are some ideas to get you started:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mo-land)](https://github.com/ryo-ma/github-profile-trophy)
+- ねこが好きです（READMEにも出没します。飼う予定はありません。）
+- 「手作業」や「繰り返し」を見つけると、つい整理したくなります。
+- 仕組みを整理して、ミスや迷いを防ぐことが好きです。
+- Railsで個人開発しつつ、学びは記事にしてアウトプットしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**好きな共通化グッズ：** daisyUI & Concern  
+
+**最近やっていること：**
+- NeuroWordの改善（UI / 使い勝手 / リファクタ）
+- Lazygit導入（毎日のGit操作を効率化）
+- さくらVPSでサーバー構築（インフラ学習中）
+
+## 🛠 Apps
+
+<table>
+  <tr>
+    <th align="center">NeuroWord</th>
+    <th align="center">のこのこにゃんこ（クローズ済）</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://neuroword-nk.com/">
+        <img src="https://res.cloudinary.com/dyafcag5y/image/upload/v1764747710/iyj9hdmhh8r4njmyrwwr.png" width="400" alt="NeuroWord"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dyafcag5y/image/upload/v1758357387/nnu8puxyejip4rxqgj2w.png" width="400" alt="のこのこにゃんこ"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      言葉探しゲームで楽しく暗記学習できるWebアプリ<br>
+      <a href="https://neuroword-nk.com/">App</a> /
+      <a href="https://github.com/mo-land/NeuroWord">GitHub</a> /
+      <a href="https://qiita.com/mo_runteq65/items/c9c3e75c1aef7e036700">リリース記事</a>
+    </td>
+    <td align="center">
+      きのこ・たけのこ・ねこを15秒でクリックするミニゲーム<br>
+      <a href="https://github.com/mo-land/noko2_nyanko">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+## 📝 Articles
+
+### 技術記事
+| タイトル | 媒体 |
+|---|---|
+| [【個人開発】暗記学習を「言葉探しゲーム」に変えるWebゲーム風アプリを開発しました（Rails）](https://qiita.com/mo_runteq65/items/c9c3e75c1aef7e036700) | Qiita |
+| [【初心者】同じコードを繰り返さないためのTips（Railsコントローラー編）](https://qiita.com/mo_runteq65/items/2e31a8a5a3c65344cb2d) | Qiita |
+| [【Windows】1日2つだけのコマンドで、見返したくなるTILを投稿する](https://zenn.dev/mo_land/articles/9aa0cedb0a822d) | Zenn |
+
+### 学習ログ・イベント
+| タイトル | 媒体 |
+|---|---|
+| [Rails Girls Sapporo 2nd に参加しました！](https://note.com/moland/n/na34e63541888) | note |
+| [RUNTEQ生活8ヵ月目振り返り](https://note.com/moland/n/nf3fd2ccdc4a6) | note |
+| [RUNTEQ生活4～7ヵ月目振り返り](https://note.com/moland/n/nbde016637dc5) | note |
+| [RUNTEQ生活2,3か月目振り返り](https://note.com/moland/n/na2862e88bc10) | note |
+| [RUNTEQ生活1か月目振り返り](https://note.com/moland/n/n9b19e2c07328) | note |
+| [自己紹介](https://note.com/moland/n/nd7b012d62329) | note |

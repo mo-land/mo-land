@@ -12,7 +12,8 @@
 **最近やっていること：**
 - NeuroWordの改善（UI / 使い勝手 / リファクタ）
 - Lazygit導入（毎日のGit操作を効率化）
-- さくらVPSでサーバー構築（インフラ学習中）
+- Reactチュートリアル
+- さくらVPSでサーバー構築（インフラ学習）
 
 ## 🛠 Apps
 
@@ -50,16 +51,18 @@
 ### 技術記事
 | タイトル | 媒体 |
 |---|---|
-| [【個人開発】暗記学習を「言葉探しゲーム」に変えるWebゲーム風アプリを開発しました（Rails）](https://qiita.com/mo_runteq65/items/c9c3e75c1aef7e036700) | Qiita |
-| [【初心者】同じコードを繰り返さないためのTips（Railsコントローラー編）](https://qiita.com/mo_runteq65/items/2e31a8a5a3c65344cb2d) | Qiita |
-| [【Windows】1日2つだけのコマンドで、見返したくなるTILを投稿する](https://zenn.dev/mo_land/articles/9aa0cedb0a822d) | Zenn |
+| [React超初心者、propsとstateの違いを大喜利風にして遊んでしまう。](https://qiita.com/mo_runteq65/items/52c83dab46a608fb971f) | ![](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white) |
+| [【個人開発】暗記学習を「言葉探しゲーム」に変えるWebゲーム風アプリを開発しました（Rails）](https://qiita.com/mo_runteq65/items/c9c3e75c1aef7e036700) | ![](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white) |
+| [【初心者】同じコードを繰り返さないためのTips（Railsコントローラー編）](https://qiita.com/mo_runteq65/items/2e31a8a5a3c65344cb2d) | ![](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white) |
+| [【Windows】1日2つだけのコマンドで、見返したくなるTILを投稿する](https://zenn.dev/mo_land/articles/9aa0cedb0a822d) |![](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white)|
 
-### 学習ログ・イベント
+### その他
 | タイトル | 媒体 |
 |---|---|
-| [Rails Girls Sapporo 2nd に参加しました！](https://note.com/moland/n/na34e63541888) | note |
-| [RUNTEQ生活8ヵ月目振り返り](https://note.com/moland/n/nf3fd2ccdc4a6) | note |
-| [RUNTEQ生活4～7ヵ月目振り返り](https://note.com/moland/n/nbde016637dc5) | note |
-| [RUNTEQ生活2,3か月目振り返り](https://note.com/moland/n/na2862e88bc10) | note |
-| [RUNTEQ生活1か月目振り返り](https://note.com/moland/n/n9b19e2c07328) | note |
-| [自己紹介](https://note.com/moland/n/nd7b012d62329) | note |
+| [Rails Girls Sapporo 2nd に参加しました！](https://note.com/moland/n/na34e63541888) |![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000)|
+| [RUNTEQ生活8ヵ月目振り返り](https://note.com/moland/n/nf3fd2ccdc4a6) |![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000)|
+| [RUNTEQ生活4～7ヵ月目振り返り](https://note.com/moland/n/nbde016637dc5) |![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000)|
+| [RUNTEQ生活2,3か月目振り返り](https://note.com/moland/n/na2862e88bc10) |![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000) |
+| [RUNTEQ生活1か月目振り返り](https://note.com/moland/n/n9b19e2c07328) | ![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000)|
+| [自己紹介](https://note.com/moland/n/nd7b012d62329) |![](https://img.shields.io/badge/Note-FFFFFF?style=for-the-badge&logo=Note&logoColor=000000)|
+
